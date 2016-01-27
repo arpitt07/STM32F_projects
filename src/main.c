@@ -1,4 +1,5 @@
 
+/* Edited By Arpit Patel */
 #include "main.h" 
 int randnum = 0; 
 extern int counter; //this is used for the pause function when the LED's turn off
